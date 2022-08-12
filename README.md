@@ -1,6 +1,6 @@
 # With .Net Core Restful api 
 
-api has multiple features like caching,secured operations,fluent validation,
+api has multiple features like caching,secured operations,fluent validation, /n
 secured operation provided with json web token(JWT) 
 
 # OOP and AOP programming 
